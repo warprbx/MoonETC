@@ -1,4 +1,4 @@
--- wearish's code
+-- Made By Wearish
 
 local mod = {}
 local DepthOfField = Instance.new('DepthOfFieldEffect', game:GetService('Lighting'))
